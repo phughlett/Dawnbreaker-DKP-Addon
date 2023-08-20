@@ -1,0 +1,6 @@
+## Interface: 30401
+## Title: Dawnbreaker-DKP
+## Author: Xevok (and Zixt)
+## Version: 3.0.1
+Dawnbreaker-DKP.xml
+Dawnbreaker-DKP.lua
